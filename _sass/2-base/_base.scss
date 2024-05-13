@@ -138,3 +138,35 @@ hr {
   border: 0;
   background: #eeeeee;
 }
+
+
+.galley-footer {
+  position: relative;
+  padding: 40px;
+  margin: 0;
+  box-shadow: 0 30px 40px rgba(0, 0, 0, 0.07);
+  background: #fff;
+
+  .gallery {
+    display: grid;
+    grid-template-columns: repeat(3, auto);
+    justify-content: center;
+    align-content: center;
+    grid-gap: 16px;
+    grid-template-columns: repeat(4, auto);
+
+    img {
+      width: 100%;
+      height: auto;
+      background: #fff;
+      user-select: none;
+    }
+  }
+}
+
+@media only screen and (max-width: 992px) {
+  .galley-footer .gallery {
+      grid-template-columns: repeat(2, auto);
+  }
+}
+
