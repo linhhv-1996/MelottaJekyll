@@ -13,7 +13,7 @@ I suggest you try it again, Luke. This time, let go your conscious self and act 
 
 Hokey religions and ancient weapons are no match for a good blaster at your side, kid. I suggest you try it again, Luke. This time, let go your conscious self and act on instinct. Don't be too proud of this technological terror you've constructed. The ability to destroy a planet is insignificant next to the power of the Force.
 
-![Bike on the street]({{site.baseurl}}/images/11.jpg)
+![Bike on the street]({{site.baseurl}}/images/11.webp)
 *Memories from childhood*
 
 1. She must have hidden the plans in the escape pod. Send a detachment down to retrieve them, and see to it personally, Commander. There'll be no one to stop us this time!

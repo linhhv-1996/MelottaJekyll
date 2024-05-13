@@ -2,7 +2,7 @@
 layout: post
 title:  In my experience, there is no such thing as luck
 date:   2018-11-05 15:01:35 +0300
-image:  '/images/10.jpg'
+image:  '/images/10.webp'
 tags:   Work
 ---
 Still, she's got a lot of spirit. I don't know, what do you think? Hokey religions and ancient weapons are no match for a good blaster at your side, kid. I can't get involved! I've got work to do! It's not that I like the Empire, I hate it, but there's nothing I can do about it right now. It's such a long way from here.
@@ -13,7 +13,7 @@ I suggest you try it again, Luke. This time, let go your conscious self and act 
 
 Hokey religions and ancient weapons are no match for a good blaster at your side, kid. I suggest you try it again, Luke. This time, let go your conscious self and act on instinct. Don't be too proud of this technological terror you've constructed. The ability to destroy a planet is insignificant next to the power of the Force.
 
-![Bike on the street]({{site.baseurl}}/images/11.jpg)
+![Bike on the street]({{site.baseurl}}/images/11.webp)
 *Memories from childhood*
 
 1. She must have hidden the plans in the escape pod. Send a detachment down to retrieve them, and see to it personally, Commander. There'll be no one to stop us this time!
